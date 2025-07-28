@@ -7,3 +7,4 @@ sentence-transformers
 groq
 PyMuPDF
 python-dotenv
+langchain-groq
